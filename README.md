@@ -1,5 +1,7 @@
 Análisis de código & Dependencia:
+#
 #Antonia Paredes
+#
 #Clases:
 #
 Clase 1: Calculadora(); Esta clase permite realizar operaciones de suma y multiplicación entre 2 números, que pueden ser continuamente modificados.
